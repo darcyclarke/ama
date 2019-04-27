@@ -1,6 +1,6 @@
-# Ask me anything!
+<h1 align="center">Ask me anything!</h1>
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
+<h3 align="center"><a href="../../issues/new">？Ask a Question</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="../../issues?q=is%3Aissue+is%3Aclosed">🗣 &nbsp;Read the Answers</a></h3>
 
 - I'm a Developer, Designer, Founder, Mentor & Speaker. 
 - I Co-Founded [Themify](http://themify.me)
