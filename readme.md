@@ -20,3 +20,9 @@ I get a lot of questions by email and can't answer them all. This is a great way
 - Bugs & feature requests should be opened on the relevant issue tracker.
 - Support questions are better asked on Stack Overflow.
 - Be civil and polite :)
+
+### Links
+- [GitHub @darcyclarke](https://github.com/darcyclarke)
+- [Twitter @darcy](https://twitter.com/darcy)
+- [LinkedIn @darcyclarke](https://www.linkedin.com/in/darcyclarke/)
+- [Website darcyclarke.me](https://darcyclarke.me)
